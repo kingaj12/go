@@ -2,6 +2,7 @@ module github.com/stellar/go
 
 go 1.12
 
+replace bitbucket.org/ww/goautoneg => github.com/adjust/goautoneg master
 require (
 	bitbucket.org/ww/goautoneg v0.0.0-20120707110453-75cd24fc2f2c
 	firebase.google.com/go v3.12.0+incompatible
