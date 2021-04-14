@@ -1,4 +1,4 @@
-module github.com/stellar/go
+module github.com/kingaj12/go
 
 go 1.15
 
